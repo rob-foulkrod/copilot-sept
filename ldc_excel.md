@@ -123,9 +123,9 @@ The Trade Flows worksheet contains several intentional data-quality issues for t
 
 Est. Annual Margin Revenue ($M) = Book Value End ($M) x Merchandising Margin (bps) / 10,000.
 
-## Appendix: Mapping From The Invesco Original
+## Appendix: Mapping From The   Original
 
-| Invesco original | LDC mirror |
+|   original | LDC mirror |
 | --- | --- |
 | Worksheet: Fund Flows | Worksheet: Trade Flows |
 | Worksheet: Risk Metrics | Worksheet: Risk Metrics |
@@ -138,7 +138,7 @@ Est. Annual Margin Revenue ($M) = Book Value End ($M) x Merchandising Margin (bp
 | Estimated Annual Fee Revenue | Est. Annual Margin Revenue ($M) |
 | Fund | Trading book |
 
-Cell addresses for every intentional data issue are unchanged from the Invesco original, so the cleanup section runs beat for beat.
+Cell addresses for every intentional data issue are unchanged from the   original, so the cleanup section runs beat for beat.
 
 ## Note On Synthetic Content
 

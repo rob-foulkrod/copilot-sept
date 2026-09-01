@@ -1,18 +1,18 @@
-# Invesco PowerPoint Copilot Demo
+# PowerPoint Copilot Demo
 
 **Scenario:**  
-Create an executive-ready presentation for Invesco leadership using portfolio insights, fund flows, fee revenue, client segments, and risk indicators.
+Create an executive-ready presentation for   leadership using portfolio insights, fund flows, fee revenue, client segments, and risk indicators.
 
 ## Demo Setup
 
-Use: [Invesco_Portfolio_Insights_Demo.xlsx](https://github.com/julietrajan/invescodemos/blob/main/Excel%20for%20Invesco/Invesco_Portfolio_Insights_Demo.xlsx)
+Use: [ _Portfolio_Demo.xlsx](https://github.com/julietrajan/ demos/blob/main/Excel%20for%20 / _Portfolio_Insights_Demo.xlsx)
 
 ## Copilot in PowerPoint
 
 ### Create the Presentation
 
 ```text
-Create a 7-slide executive presentation for Invesco leadership summarizing portfolio insights from the workbook. Focus on AUM, net flows, fee revenue, client segments, risk watchlist, and recommended actions.
+Create a 7-slide executive presentation for leadership summarizing portfolio insights from the workbook. Focus on AUM, net flows, fee revenue, client segments, risk watchlist, and recommended actions.
 ```
 
 ### Improve Structure
