@@ -1,6 +1,6 @@
 # LDC Investment Operations Demo
 
-**Scenario:** You're a commodity trading operations analyst at Louis Dreyfus Company reviewing trade flows, book value, merchandising margin revenue, client segments, and portfolio risk signals.
+**Scenario:** You're a commodity trading operations analyst at Louis Dreyfus Company reviewing trade flows, book value, merchandising margin revenue, client segments, and trading-book risk signals.
 
 ## Demo Setup
 
@@ -122,23 +122,6 @@ The Trade Flows worksheet contains several intentional data-quality issues for t
 | O | Position Limit Utilization (%) |
 
 Est. Annual Margin Revenue ($M) = Book Value End ($M) x Merchandising Margin (bps) / 10,000.
-
-## Appendix: Mapping From The   Original
-
-|   original | LDC mirror |
-| --- | --- |
-| Worksheet: Fund Flows | Worksheet: Trade Flows |
-| Worksheet: Risk Metrics | Worksheet: Risk Metrics |
-| Worksheet: Summary | Worksheet: Summary |
-| Product Line (funds, ETFs, mutual funds) | Product Line (Grains & Oilseeds, Coffee, Sugar, Cotton, Rice, Juice, Freight & Logistics) |
-| Client Segment (RIA, wealth platform, retail advisor) | Client Segment (Food Manufacturer, Feed & Livestock, Biofuels, Retail & CPG, Beverage Producer) |
-| Net Flows | Net Flows ($M) |
-| AUM End | Book Value End ($M) |
-| Management Fee (bps) | Merchandising Margin (bps) |
-| Estimated Annual Fee Revenue | Est. Annual Margin Revenue ($M) |
-| Fund | Trading book |
-
-Cell addresses for every intentional data issue are unchanged from the   original, so the cleanup section runs beat for beat.
 
 ## Note On Synthetic Content
 
