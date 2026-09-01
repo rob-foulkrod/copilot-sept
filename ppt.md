@@ -5,7 +5,7 @@ Create an executive-ready presentation for   leadership using portfolio insights
 
 ## Demo Setup
 
-Use: [ _Portfolio_Demo.xlsx](https://github.com/julietrajan/ demos/blob/main/Excel%20for%20 / _Portfolio_Insights_Demo.xlsx)
+Use: LDC_Commodity_Book_Insights_Demo.xlsx
 
 ## Copilot in PowerPoint
 
